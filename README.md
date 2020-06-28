@@ -1,8 +1,7 @@
 # PythonContestia
+It is used to know the information of latest coding contest on various coding plateforms.
 
-## It is used to know the information of latest coding contest on various coding plateforms
-
-# Build and Run
+## Build and Run
 
 - Install python3 and pip3
 - Install Dependencies
